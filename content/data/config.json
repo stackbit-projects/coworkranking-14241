@@ -39,6 +39,12 @@
     "footer": {
         "sections": [
             {
+                "image_alt": "lorem-ipsum",
+                "image_url": "lorem-ipsum",
+                "type": "footer_text",
+                "image": "images/marvelous-neptune.png"
+            },
+            {
                 "type": "footer_nav",
                 "title": "Entreprise",
                 "nav_links": [
@@ -80,12 +86,6 @@
                         "icon_position": "left"
                     }
                 ]
-            },
-            {
-                "image_alt": "lorem-ipsum",
-                "image_url": "lorem-ipsum",
-                "type": "footer_text",
-                "image": "images/marvelous-neptune.png"
             }
         ],
         "has_nav": true,
