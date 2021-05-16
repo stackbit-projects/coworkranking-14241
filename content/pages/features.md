@@ -33,22 +33,7 @@ sections:
   - section_id: FAQ
     title: Questions fréquentes
     background: white
-    faq_items:
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        type: faq_item
+    faq_items: []
     type: section_faq
 seo:
   title: Features
