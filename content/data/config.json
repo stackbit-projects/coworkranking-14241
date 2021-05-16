@@ -39,12 +39,6 @@
     "footer": {
         "sections": [
             {
-                "type": "footer_text",
-                "image": "images/Logo Blanc Unique.png",
-                "image_url": "/",
-                "image_alt": "Footer logo"
-            },
-            {
                 "type": "footer_nav",
                 "title": "Entreprise",
                 "nav_links": [
