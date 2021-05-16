@@ -23,7 +23,6 @@ sections:
       - input_type: text
         name: Entreprise
         label: Entreprise
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
