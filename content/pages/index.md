@@ -42,7 +42,9 @@ sections:
     title: Derniers articles
 seo:
   title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  description: >-
+    Nous accompagnons des entreprises dans la recherche de leur futur espace de
+    travail.
   extra:
     - name: 'og:type'
       value: website
