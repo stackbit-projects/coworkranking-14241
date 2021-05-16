@@ -5,7 +5,10 @@ subtitle: >-
   besoins de vos équipes.
 seo:
   title: 'À propos | CoworkRanking : Le spécialiste du coworking.'
-  description: This is the style guide page
+  description: >-
+    Notre mission est de trouver l'espace de travail qui correspond à 100% aux
+    besoins de vos équipes. CoworkRanking a été créé à partir d'un constat
+    simple : l' ...
   extra:
     - name: 'og:type'
       value: website
