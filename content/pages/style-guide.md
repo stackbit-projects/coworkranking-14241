@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: 'CoworkRanking : le spécialiste du coworking.'
 subtitle: >-
   Notre mission est de trouver l'espace de travail qui correspond à 100% aux
   besoins de vos équipes.
