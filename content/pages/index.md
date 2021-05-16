@@ -6,9 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Trouver votre nouvel espace de travail
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Nos équipes vous accompagnent dans votre recherche.[
+
+
+      ](https://www.coworkranking.com/features/)
     actions:
       - label: Learn More
         url: /features
