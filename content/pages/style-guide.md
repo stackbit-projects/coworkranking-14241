@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Style Guide
+      value: 'À propos '
       keyName: property
     - name: 'og:description'
       value: This is the style guide page
