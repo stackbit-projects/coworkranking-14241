@@ -2,7 +2,7 @@
     "title": "Coworkranking",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "orange",
+    "palette": "green",
     "header": {
         "logo_img": "images/LOGO PNG ALL BLUE.png",
         "logo_img_alt": "Logo",
