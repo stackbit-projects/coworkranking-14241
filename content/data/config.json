@@ -86,6 +86,11 @@
                         "icon_position": "left"
                     }
                 ]
+            },
+            {
+                "title": "lorem-ipsum",
+                "nav_links": [],
+                "type": "footer_nav"
             }
         ],
         "has_nav": true,
