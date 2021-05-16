@@ -41,7 +41,7 @@ sections:
           J'accepte que ce formulaire enregistre les informations que j'ai
           soumises afin que je puisse être contacté.
         is_required: true
-    submit_label: Send Message
+    submit_label: E
 seo:
   title: Contact
   description: This is the contact page
