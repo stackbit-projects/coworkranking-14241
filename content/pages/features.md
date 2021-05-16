@@ -7,21 +7,25 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Comment ca marche ?
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      #### **Un appel de découverte**
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      Un de nos conseillers vous contact pour échanger sur vos besoins et vos
+      critères de recherche.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      #### **Une recherche rapide**
+
+
+      Nous réalisons gratuitement la recherche de votre futur espace de travail.
+
+
+      #### **Une visite programmée**
+
+
+      Nous prenons contact avec les espaces que vous avez sélectionnés afin
+      d'organiser les visites.
     actions:
       - label: Free Trial
         url: /signup
