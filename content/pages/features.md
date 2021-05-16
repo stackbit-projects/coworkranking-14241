@@ -43,17 +43,16 @@ sections:
       - question: >-
           Pourquoi choisir les équipes de CoworkRanking pour gérer ma rechercher
           ?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          Notre mission est simple : trouver votre nouvel espace de travail dans
+          lequel vos équipes pourront s'épanouir et
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Nous nous efforçons de fournir à tous nos clients le processus de
+          recherche le plus agréable et rapide possible. Notre équipe de
+          passionnés est disponible avant, pendant ou après votre emménagement
+          pour répondre à toutes vos questions.
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
