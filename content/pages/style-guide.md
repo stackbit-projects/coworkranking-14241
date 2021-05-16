@@ -17,7 +17,10 @@ seo:
       value: 'À propos '
       keyName: property
     - name: 'og:description'
-      value: This is the style guide page
+      value: >-
+        Notre mission est de trouver l'espace de travail qui correspond à 100%
+        aux besoins de vos équipes. CoworkRanking a été créé à partir d'un
+        constat simple : l' ...
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
