@@ -6,7 +6,6 @@ excerpt: >-
   Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
   interdum, massa massa tempor ante.
 date: '2018-01-11'
-thumb_image: images/5_thumb.jpg
 image: images/5.jpg
 seo:
   title: 5 Customer Service Skills that Every Employee Needs
