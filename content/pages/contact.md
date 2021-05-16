@@ -26,15 +26,15 @@ sections:
         name: email
         label: Email
         is_required: true
-      - input_type: textarea
-        name: message
-        label: Message
       - input_type: tel
         name: Téléphone
         label: Téléphone
         options: []
         is_required: false
         type: form_field
+      - input_type: textarea
+        name: message
+        label: Message
       - input_type: checkbox
         name: consent
         label: >-
