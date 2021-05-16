@@ -69,6 +69,7 @@ sections:
       - label: Commencer
         url: /contact
         style: primary
+    subtitle: Trouver un espace de coworking n'a jamais été aussi simple.
   - section_id: recent-posts
     type: section_posts
     background: gray
