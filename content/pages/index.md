@@ -16,9 +16,6 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     features:
       - title: Pourquoi faire le choix du coworking ?
         image: images/feature1.png
