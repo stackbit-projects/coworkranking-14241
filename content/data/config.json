@@ -49,7 +49,7 @@
                 "title": "Company",
                 "nav_links": [
                     {
-                        "label": "À propos",
+                        "label": "Service",
                         "url": "/about",
                         "style": "link"
                     },
