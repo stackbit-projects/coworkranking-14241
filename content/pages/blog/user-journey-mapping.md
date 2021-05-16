@@ -1,7 +1,4 @@
 ---
-excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
 date: '2019-03-27'
 seo:
   title: A Guide To User Journey Mapping
