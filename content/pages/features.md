@@ -68,8 +68,8 @@ sections:
           celui-ci
         type: faq_item
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Quel est la différence entre CoworkRanking et un broker traditionnel
+          ? 
         answer: >-
           ## Lorem ipsum
 
