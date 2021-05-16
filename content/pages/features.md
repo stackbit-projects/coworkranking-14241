@@ -27,7 +27,7 @@ sections:
       Nous prenons contact avec les espaces que vous avez sélectionnés afin
       d'organiser les visites.
     actions:
-      - label: Free Trial
+      - label: Commencer ma recherche
         url: /signup
         style: primary
   - section_id: call-to-action
