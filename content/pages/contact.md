@@ -29,7 +29,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-      - input_type: text
+      - input_type: tel
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
