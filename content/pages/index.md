@@ -65,7 +65,6 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Votre recherche commence ici !
-    subtitle: Trouver un espace de coworking n'a jamais été aussi simple.
     actions:
       - label: Commencer
         url: /contact
