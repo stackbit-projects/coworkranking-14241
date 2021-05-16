@@ -9,7 +9,7 @@ sections:
     content: |
       Nos équipes vous accompagnent dans votre recherche.
     actions:
-      - label: Learn More
+      - label: Découvrir
         url: /features
         style: primary
   - section_id: features
