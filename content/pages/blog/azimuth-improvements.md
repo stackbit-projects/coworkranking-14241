@@ -5,8 +5,8 @@ subtitle: >-
   massa primis.
 author: content/data/authors/john-doe.yaml
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Découvrez les plus beaux espaces de coworking situé en région parisienne. Vous
+  y trouverez peut-être votre futur lieu de travail rêvé.
 date: '2017-03-26'
 thumb_image: images/1_thumb.jpg
 seo:
