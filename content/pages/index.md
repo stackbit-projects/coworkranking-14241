@@ -22,7 +22,7 @@ sections:
         content: |
           Des dizaines d'espaces adaptés à vos besoins
         actions:
-          - label: Learn More
+          - label: En savoir plus
             url: /features
             style: secondary
             has_icon: true
