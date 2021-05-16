@@ -34,9 +34,7 @@ sections:
     title: Questions fréquentes
     background: white
     faq_items:
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Combien cela me coûte
         answer: >-
           ## Lorem ipsum
 
