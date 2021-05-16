@@ -15,7 +15,6 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
     features:
       - title: Pourquoi faire le choix du coworking ?
         image: images/feature1.png
