@@ -32,7 +32,6 @@ sections:
       - input_type: tel
         name: Téléphone
         label: Téléphone
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
