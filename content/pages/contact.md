@@ -16,16 +16,16 @@ sections:
         name: name
         label: Nom
         is_required: true
-      - input_type: email
-        name: email
-        label: Email
-        is_required: true
       - input_type: text
         name: Entreprise
         label: Entreprise
         options: []
         is_required: false
         type: form_field
+      - input_type: email
+        name: email
+        label: Email
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
