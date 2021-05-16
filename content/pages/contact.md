@@ -18,7 +18,7 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        label: Entreprise
+        label: Email
         is_required: true
       - input_type: textarea
         name: message
