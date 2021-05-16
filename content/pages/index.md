@@ -41,7 +41,7 @@ sections:
     background: gray
     title: Derniers articles
 seo:
-  title: Stackbit Azimuth Theme
+  title: CoworkRanking | Trouvez votre coworking
   description: >-
     Nous accompagnons des entreprises dans la recherche de leur futur espace de
     travail.
