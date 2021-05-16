@@ -21,7 +21,7 @@ sections:
         label: Email
         is_required: true
       - input_type: text
-        name: lorem-ipsum
+        name: Entreprise
         label: Entreprise
         default_value: lorem-ipsum
         options: []
