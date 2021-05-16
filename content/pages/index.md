@@ -17,7 +17,7 @@ sections:
     background: gray
     features:
       - title: Pourquoi faire le choix du coworking ?
-        image: images/feature1.png
+        image: images/Projet HP 2.png
         image_alt: App preview on a phone and tablet
         content: |
           Des dizaines d'espaces adaptés à vos besoins
