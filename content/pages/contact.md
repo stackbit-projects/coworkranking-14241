@@ -30,7 +30,7 @@ sections:
         name: message
         label: Message
       - input_type: tel
-        name: lorem-ipsum
+        name: Téléphone
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
