@@ -68,7 +68,7 @@ sections:
     subtitle: Trouver un espace de coworking n'a jamais été aussi simple.
     actions:
       - label: Get Started
-        url: /signup
+        url: /contact
         style: primary
   - section_id: recent-posts
     type: section_posts
