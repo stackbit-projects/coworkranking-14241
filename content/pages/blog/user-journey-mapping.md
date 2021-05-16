@@ -5,7 +5,6 @@ excerpt: >-
 date: '2019-03-27'
 thumb_image: images/10_thumb.jpg
 thumb_image_alt: Business people in a meeting
-image: images/10.jpg
 image_alt: Business people in a meeting
 seo:
   title: A Guide To User Journey Mapping
