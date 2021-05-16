@@ -7,10 +7,7 @@ sections:
     image_alt: App preview
     title: Trouver votre nouvel espace de travail
     content: |
-      Nos équipes vous accompagnent dans votre recherche.[
-
-
-      ](https://www.coworkranking.com/features/)
+      Nos équipes vous accompagnent dans votre recherche.
     actions:
       - label: Learn More
         url: /features
