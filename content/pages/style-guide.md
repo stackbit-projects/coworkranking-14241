@@ -1,9 +1,8 @@
 ---
 title: Style Guide
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  Notre mission est de trouver l'espace de travail qui correspond à 100% aux
+  besoins de vos équipes.
 seo:
   title: Style Guide
   description: This is the style guide page
