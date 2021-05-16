@@ -6,7 +6,7 @@ excerpt: >-
   Changer de bureau est une décision cruciale dans l'évolution d'une entreprise.
   Cela implique une longue réflexion pour choisir l'option la mieux adaptée aux
   besoins de vos équipes. Découvrez les avantages qu'offre le coworking.
-date: '2021-01-03'
+date: '2021-05-16'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
