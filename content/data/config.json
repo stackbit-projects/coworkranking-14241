@@ -91,7 +91,7 @@
                 "title": "En savoir plus",
                 "nav_links": [
                     {
-                        "label": "lorem-ipsum",
+                        "label": "Contactez-nous",
                         "url": "/contact",
                         "style": "primary",
                         "has_icon": false,
