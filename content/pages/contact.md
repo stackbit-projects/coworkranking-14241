@@ -31,7 +31,7 @@ sections:
         label: Message
       - input_type: tel
         name: Téléphone
-        label: lorem-ipsum
+        label: Téléphone
         default_value: lorem-ipsum
         options: []
         is_required: false
