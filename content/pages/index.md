@@ -6,8 +6,9 @@ sections:
     image: images/top-img.png
     image_alt: App preview
     title: Le TripAdvisor du coworking
-    content: |
-      Nos équipes vous accompagnent dans votre recherche.
+    content: >
+      Nous vous montrons les differences de services et de qualité entre
+      coworking
     actions:
       - label: Découvrir
         url: /features
