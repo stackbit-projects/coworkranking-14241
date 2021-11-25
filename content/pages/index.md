@@ -31,7 +31,7 @@ sections:
             icon_position: right
   - section_id: call-to-action
     type: section_cta
-    title: Votre recherche commence ici !
+    title: Demandez nous plus d'infos !
     actions:
       - label: Commencer
         url: /contact
