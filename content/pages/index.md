@@ -21,7 +21,7 @@ sections:
         image: images/Projet HP 2.png
         image_alt: App preview on a phone and tablet
         content: |
-          Des dizaines d'espaces adaptés à vos besoins
+          Vérifiez que les espaces sont adaptés à vos besoins
         actions:
           - label: En savoir plus
             url: /features
