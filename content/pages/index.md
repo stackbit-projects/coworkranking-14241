@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     features:
-      - title: Pourquoi faire le choix du coworking ?
+      - title: Comment faire le choix du coworking ?
         image: images/Projet HP 2.png
         image_alt: App preview on a phone and tablet
         content: |
