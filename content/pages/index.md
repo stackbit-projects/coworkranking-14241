@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/top-img.png
     image_alt: App preview
-    title: Trouver votre nouvel espace de travail
+    title: Le TripAdvisor du coworking
     content: |
       Nos équipes vous accompagnent dans votre recherche.
     actions:
